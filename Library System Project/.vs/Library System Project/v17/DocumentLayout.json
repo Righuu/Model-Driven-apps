@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ritesh Pal\\source\\repos\\Library System Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B541F153-AEFA-42F4-B734-3B41049F8C16}|Library System Project\\Library System Project.csproj|c:\\users\\ritesh pal\\source\\repos\\library system project\\library system project\\issuedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B541F153-AEFA-42F4-B734-3B41049F8C16}|Library System Project\\Library System Project.csproj|solutionrelative:library system project\\issuedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IssuedBook.cs",
+              "DocumentMoniker": "C:\\Users\\Ritesh Pal\\source\\repos\\Library System Project\\Library System Project\\IssuedBook.cs",
+              "RelativeDocumentMoniker": "Library System Project\\IssuedBook.cs",
+              "ToolTip": "C:\\Users\\Ritesh Pal\\source\\repos\\Library System Project\\Library System Project\\IssuedBook.cs",
+              "RelativeToolTip": "Library System Project\\IssuedBook.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwB4AAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T12:07:39.155Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
